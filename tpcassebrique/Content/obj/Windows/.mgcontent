@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/../../../../../Pictures/back13.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/b0.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/b1.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/b2.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/b3.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/b4.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back.jpg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back01.jpg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back1.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back11.jpeg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back11.jpg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back12.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/back13.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/Ball.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/Balle11.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/balle3.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/Bat.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br0.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br1.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br2.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br3.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br4.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/br5.PNG</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique0.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique01.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique02.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique03.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique04.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique1.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique3.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique4.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique5.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/brique6.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/briquetransparente.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/fond2.jpg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/font.spritefont</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/GameThumbnail.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/raquette11.jpg</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/raquette3.png</File>
+    <File>C:/Users/achil/source/repos/tpcassebrique/tpcassebrique/Content/raquettePlusPetite.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>back13.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>back12.jpeg</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
